@@ -1,0 +1,8 @@
+202511033,03/11/2025,3,Fernanda Reis,990,15,1050,92.9,Não,Operação dentro do esperado
+202511192,19/11/2025,2,Wilson Azul,1600,120,1100,145.5,Não,Aguardando peça reserva
+202511193,19/11/2025,3,Elisabeth Verde,1100,20,1200,91.7,Não,-
+202511032,03/11/2025,2,Denis Alavanca,980,50,1100,89.1,Sim,Módulo de refrigeracao falhou
+202511051,05/11/2025,1,Lucas Moreira,950,10,950,100.0,Não,
+202511052,05/11/2025,2,Rafael Rocha,1300,100,1100,118.2,Sim,Falha no umidificador
+202511053,05/11/2025,3,Joao Ribeiro,1300,261,1200,108.3,Não,Troca da valvula termostatica
+202511171,17/11/2025,1,Leticia Barreto,1000,0,950,0.11,Não,Sem intercorrências
