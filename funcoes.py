@@ -102,7 +102,8 @@ def cadastro():
                 print(f"Insira uma data válida no formato{cor['vermelho']} DD/MM/AAAA{cor['padrao']} para prosseguir")
                 sleep(1.5)
             else:
-                if not datetime.now().year -1 <= int(datetime.strptime(data_string,"%d/%m/%Y").strftime("%Y")) <= datetime.now().year + 1:
+                ano = datetime.strptime(data, "%d/%m/%Y").year
+                if not datetime.now().year -1 <= ano <= datetime.now().year + 1:
                     print(f'O ano deve ser entre {cor["vermelho"]}{datetime.now().year -1}{cor["padrao"]} e {cor["vermelho"]}{datetime.now().year +1}{cor["padrao"]}. Tente novamente.')
                     sleep(1.5)
                     continue
